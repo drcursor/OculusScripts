@@ -4,9 +4,12 @@ Useful scripts for Oculus Rift
 ## Usage
 All of these scripts need to be run with administrator permissions
 
+## StartStopOculus.bat
+Starts or Stops Oculus Service (depending on current status).  Useful if you need to stop Oculus home from autostarting or to store the HMD with any kind of cover that would otherwise trigger the screens.
+
 ## StopOculus.bat
 
-Stops the Oculus Service. Useful if you need to stop Oculus home from autostarting or to store the HMD with any kind of cover that would otherwise trigger the screens.
+Stops the Oculus Service.
 
 ## StartOculus.bat
 
