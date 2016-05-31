@@ -22,5 +22,5 @@ Sets a false CPU ID on the windows Registry so that Oculus home stops displaying
 ## Acknowledgments
  - Bitvar [ https://forums.oculus.com/community/discussion/36677/permanent-fix-for-false-doesnt-meet-minimum-message ]
  - Xelys [ https://www.reddit.com/r/oculus/comments/4fw89n/how_do_you_turn_off_the_cv1_besides_unplugging_it/d2cla9a ]
- 
+ - mushroomtomatoes [ http://mushroomtomatoes.com/2016/04/how-to-stop-oculus-home-from-auto-starting-stop-riftcamera-from-running-hot/ ] 
 *Please feel free to add other useful scripts*
