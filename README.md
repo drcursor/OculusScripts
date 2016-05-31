@@ -1,4 +1,4 @@
-# OculusScripts
+# Oculus Scripts
 Useful scripts for Oculus Rift
 
 # Usage
