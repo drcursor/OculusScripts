@@ -1,1 +1,2 @@
-"C:\Program Files (x86)\Windows Resource Kits\Tools\subinacl.exe"  /service OVRService /grant=%username%=TO
+"C:\Program Files (x86)\Windows Resource Kits\Tools\subinacl.exe" /service OVRService /grant=%username%=TO
+"C:\Program Files (x86)\Windows Resource Kits\Tools\subinacl.exe" /subkeyreg "HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0" /grant=%username%=F

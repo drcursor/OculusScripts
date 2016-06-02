@@ -9,7 +9,7 @@ To grant service permissions and avoid the UAC prompts, simply run GrantPermissi
 
 ## GrantPermissions.bat
 
-Adds start and stop permissions to the current logged in user. This way you don't need to run the batch files as administrator and you're not faced with a UAC prompt at each usage.
+Adds Oculus Service start and stop permissions as well as write access to the CPU Registry key to the current logged in user. This way you don't need to run the batch files as administrator and you're not faced with a UAC prompt at each usage.
 Requires subinacl (a Windows Resource Kit tool), you can download it directly from Microsoft [here](https://download.microsoft.com/download/1/7/d/17d82b72-bc6a-4dc8-bfaa-98b37b22b367/subinacl.msi).
 Please make sure to run this script with admin privileges.
 
