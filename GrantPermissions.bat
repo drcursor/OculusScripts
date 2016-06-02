@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Windows Resource Kits\Tools\subinacl.exe"  /service OVRService /grant=%username%=TO
