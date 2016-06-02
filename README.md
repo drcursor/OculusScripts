@@ -27,7 +27,7 @@ StopOculus.bat nemesis... Starts the service so you can use it again.
 
 ## FixCPU.bat
 
-Sets a false CPU ID on the windows Registry so that Oculus home stops displaying the nagging "Your computer doesn't meet Rift's recommended specifications" message
+Sets a false CPU ID on the windows Registry so that Oculus home stops displaying the nagging "Your computer doesn't meet Rift's recommended specifications" message. This change is reverted once you restart your PC.
 
 ## Acknowledgments
  - [Bitvar](https://forums.oculus.com/community/discussion/36677/permanent-fix-for-false-doesnt-meet-minimum-message)
